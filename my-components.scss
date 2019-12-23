@@ -3,8 +3,9 @@
 
 .mdc-button {
 @include mdc-button-shape-radius(10%);
-    padding: 1rem 4rem;
+    padding: 1rem 3rem;
     line-height: 0.5rem;
+    margin: 0.1rem;
    
 }
 
